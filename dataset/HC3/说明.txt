@@ -1,0 +1,5 @@
+train.jsonl:训练集
+test.jsonl:测试集
+use.jsonl:用来让微调过的模型输出softmax值，供多特征检测模型使用
+eval.jsonl:评估集，在训练过程中评估每轮的效果，以此保存效果最高的那组参数。
+（以上均为部分示例）
