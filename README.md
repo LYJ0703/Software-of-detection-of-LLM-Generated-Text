@@ -31,7 +31,7 @@
  
 	model：存放实验需要的模型（需要自行导入）
  
-	pt：训练参数
+	pt：训练参数。因为github上有上传文件大小限制，请访问链接https://drive.google.com/drive/folders/17xg8SP94GbjEbVn_G3HxUJva34zIts7m?usp=sharing下载模型参数。
  
 	sh：集群应用下的脚本
  
