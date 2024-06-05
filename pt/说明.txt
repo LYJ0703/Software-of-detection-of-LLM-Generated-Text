@@ -1,0 +1,1 @@
+因为github上有上传文件大小限制，请访问链接https://drive.google.com/drive/folders/17xg8SP94GbjEbVn_G3HxUJva34zIts7m?usp=sharing下载模型参数。
